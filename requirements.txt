@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+fastapi
+uvicorn
+python-multipart
+deepface
+opencv-python
+tensorflow
+tf-keras
